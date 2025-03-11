@@ -1,4 +1,4 @@
-import java.util.Scanner; // Scanner-Klasse importieren, um die Benutzereingaben zu ermöglichen)
+import java.util.Scanner; // Scanner-Klasse importieren, um die Benutzereingaben abzufragen)
 
 public class BMIBerechnung {
     public static void main(String[] args) {
